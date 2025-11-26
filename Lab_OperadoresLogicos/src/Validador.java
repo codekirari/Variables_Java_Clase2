@@ -38,7 +38,7 @@ public class Validador {
 
         boolean perfilActivoTotal = !perfilIncompleto && (accesoExclusivo || calificaPromocion);
 
-        // 3. -- Resutlados
+        // 3. -- Resultados
         System.out.println("\n--- Resultados ---");
         System.out.println("Acceso Exclusivo: " + accesoExclusivo);
         System.out.println("Califica para Promoción: " + calificaPromocion);
