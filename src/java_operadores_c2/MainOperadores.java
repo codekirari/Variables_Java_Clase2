@@ -1,4 +1,4 @@
-package Java_Operadores_C2;
+package java_operadores_c2;
 
 public class MainOperadores {
     public static void main(String[] args) {
